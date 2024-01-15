@@ -1,4 +1,1 @@
-% qr code
-
-echo <content> | curl -F-=<- qrenco.de
-# Create a QR code with some content
+echo <content> | curl -F-=<- qrenco.de # Create a QR code with some content
